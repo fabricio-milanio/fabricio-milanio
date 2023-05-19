@@ -1,8 +1,10 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Fabrício Milanio! Sou apaixonado por tecnologia e desenvolvimento de códigos. 😎
+Me chamo Fabrício, sou de Itabira/MG, tenho 36 anos e sou um engenheiro ambiental em transição de carreira para a área de desenvolvimento de software.
 
-Atualmente estou em transição de carreira e sou estudante da Trybe.
+Atualmente estudo desenvolvimento web na Trybe. Desenvolvo minhas hard skills através dos projetos, aplicando os conhecimentos adquiridos ao longo do curso utilizando ferramentas e linguagens como HTML, CSS, JavaScript, React entre outras. Em paralelo ao conhecimento técnico, temos também as soft skills, que são habilidades como comunicação, liderança e trabalho em equipe, que também exercitamos no nosso dia a dia no curso.
+
+Sou apaixonado por tecnologia mesmo antes de ganhar meu primeiro computador. Sempre fui curioso e interessado e esse sentimento só cresceu. Ser capaz de idealizar e criar soluções que tem um propósito, resolve problemas reais e facilita a vida das pessoas, foi o que me trouxe até aqui e o que me motiva a continuar.
 
 <br>
 
