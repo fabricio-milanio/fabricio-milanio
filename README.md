@@ -6,6 +6,8 @@ Atualmente estudo desenvolvimento web na Trybe. Desenvolvo minhas hard skills at
 
 Sou apaixonado por tecnologia mesmo antes de ganhar meu primeiro computador. Sempre fui curioso e interessado e esse sentimento só cresceu. Ser capaz de idealizar e criar soluções que tem um propósito, resolve problemas reais e facilita a vida das pessoas, foi o que me trouxe até aqui e o que me motiva a continuar.
 
+Quer conhecer mais um pouco? Acesse meu LinkedIn que está logo abaixo :)
+
 <br>
 
 <!-- GITHUB STATUS -->
